@@ -2,7 +2,7 @@ function Home() {
   return (
     <div className="min-h-screen bg-gray-100 text-gray-900 flex flex-col items-center justify-center p-6">
       <header className="w-full max-w-4xl text-center mb-10">
-        <h1 className="text-4xl font-bold">Meu Portfólio</h1>
+        <h1 className="text-4xl font-bold"> Portfólio Rafaela Ribeiro</h1>
         <p className="text-lg text-gray-600">Redação Jornalística |SEO| Assessoria de Imprensa </p>
       </header>
       
